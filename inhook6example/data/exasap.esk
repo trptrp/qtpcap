@@ -1,7 +1,0 @@
-[sockman]
-protocols= exasap
-
-[exasap]
-filename= exasap.prt
-bindto= ip6
-index= 1

@@ -1,7 +1,0 @@
-[sockman]
-protocols= exaout
-
-[exaout]
-filename= exaout.prt
-bindfrom= ip6
-index= 1
